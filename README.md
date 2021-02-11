@@ -6,7 +6,7 @@
 
 **college name:** Sri Vasavi Engineering College
 
-# Skills: github and Python
+# Skills: GitHub and Python
 
 - C programming 
 - Version Control System (Git & GitHub)
